@@ -1,0 +1,42 @@
+
+.header {
+float: left;
+position: fixed;
+width: 600px;
+height: 30px;
+border-width: 20px; 
+border-style: solid; 
+border-image:  url(book.jpg) 30 round round;
+}
+
+.index {
+float: left;
+position: fixed;
+margin-top: 70px;
+width: 100px;
+height: 500px;
+border: 2px solid red;
+background-color:yellow;
+}
+
+.text {
+float: left;
+position: fixed;
+margin-top: 70px;
+margin-left: 100px;
+width: 600px;
+height: 30px;
+border:1px solid red;
+background-color:orange;
+}
+
+
+.spam {
+float: right;
+position: fixed;
+margin-top: 30px;
+margin-left: 700px;
+width: 600px;
+height: 30px;
+
+}
